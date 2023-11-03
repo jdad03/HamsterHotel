@@ -6,8 +6,8 @@ body{
     
 }
 .navBarBg{
-    background: #000324 0% 0% no-repeat padding-box;
-opacity: 1;
+    background: #000324;
+    opacity: 1;
 }
 .overviewSpacing{
     margin-right: 26px;
@@ -23,10 +23,10 @@ opacity: 1;
     padding-bottom: 1px;
  } */
 .navBarImg{
-top: 0px;
+/* top: 0px;
 left: 0px;
-/* width: 1920px; */
-height: 120px;
+width: 1920px;
+height: 120px; */
 }
 /* .navBarText{text-align: left;
     font: normal normal normal 20px/26px Dosis;
@@ -151,7 +151,7 @@ height: 26px;
 
  }
  .cardBg{
-    background-color: #000324;
+    background-image: url("../Assets/bg2.jpg");
     opacity: 1;
     height: 738px;
  }
@@ -191,7 +191,8 @@ height: 26px;
 
   .bgAmenities {
     background-image: url("../Assets/bg.jpg");
-    /* background-size: ; */
+    background-size: height 548px;
+    
   }
 
 .bgReserve{
